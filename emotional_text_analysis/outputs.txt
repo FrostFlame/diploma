@@ -1,0 +1,52 @@
+NB, Count Vectors:  0.30506666666666665
+NB, WordLevel TF-IDF:  0.30146666666666666
+NB, N-Gram Vectors:  0.28746666666666665
+NB, CharLevel Vectors:  0.30906666666666666
+
+LR, Count Vectors:  0.3428
+LR, WordLevel TF-IDF:  0.35306666666666664
+LR, N-Gram Vectors:  0.30946666666666667
+LR, CharLevel Vectors:  0.3632
+
+SVM, N-Gram Vectors:  0.25093333333333334
+
+RF, Count Vectors:  0.2788
+RF, WordLevel TF-IDF:  0.29186666666666666
+
+Xgb, Count Vectors:  0.34173333333333333
+Xgb, WordLevel TF-IDF:  0.3373333333333333
+Xgb, CharLevel Vectors:  0.3464
+
+NB, All features:  0.32
+LR, All features:  0.3344
+SVM, All features:  0.24666666666666667
+RF, All features:  0.27093333333333336
+Xgb, All features:  0.33813333333333334
+
+
+
+
+NB, Count Vectors:  0.29533333333333334
+NB, WordLevel TF-IDF:  0.2932
+NB, N-Gram Vectors:  0.2936
+NB, CharLevel Vectors:  0.30346666666666666
+
+LR, Count Vectors:  0.33653333333333335
+LR, WordLevel TF-IDF:  0.3428
+LR, N-Gram Vectors:  0.31333333333333335
+LR, CharLevel Vectors:  0.3428
+
+SVM, N-Gram Vectors:  0.24826666666666666
+
+RF, Count Vectors:  0.2696
+RF, WordLevel TF-IDF:  0.2936
+
+Xgb, Count Vectors:  0.33253333333333335
+Xgb, WordLevel TF-IDF:  0.3317333333333333
+Xgb, CharLevel Vectors:  0.33773333333333333
+
+NB, All features:  0.3225333333333333
+LR, All features:  0.33186666666666664
+SVM, All features:  0.24826666666666666
+RF, All features:  0.2716
+Xgb, All features:  0.33773333333333333
