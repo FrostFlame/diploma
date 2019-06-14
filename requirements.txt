@@ -1,3 +1,4 @@
+face_recognition
 absl-py==0.7.1
 astor==0.7.1
 beautifulsoup4==4.6.0
